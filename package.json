@@ -1,0 +1,19 @@
+{
+  "name": "platzi_asincronismojs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "async",
+    "callback",
+    "promise"
+  ],
+  "author": "Tomás Elizondo",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
