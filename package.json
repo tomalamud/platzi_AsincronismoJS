@@ -7,7 +7,9 @@
     "callback": "node src/callback/index.js",
     "callback:challenge": "node src/callback/challenge.js",
     "promises": "node src/promise/index.js",
-    "promises:challenge": "node src/promise/challenge.js"
+    "promises:challenge": "node src/promise/challenge.js",
+    "async": "node src/asyncAwait/index.js",
+    "async:challenge": "node src/asyncAwait/challenge.js"
   },
   "keywords": [
     "async",
